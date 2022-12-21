@@ -1,1 +1,7 @@
 Howdy
+
+<<<<<<< HEAD
+This is some new text for you 
+=======
+Cowboys
+>>>>>>> main
